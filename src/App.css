@@ -1,0 +1,12 @@
+.navbar-nav a {
+    font-size: 18px;
+}
+.about,
+.contact,
+.login,
+.cart,
+.register,
+.product,
+.products {
+    min-height: 85vh;
+}
